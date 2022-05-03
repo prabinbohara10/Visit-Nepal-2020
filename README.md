@@ -8,7 +8,7 @@ User can select various destination of interest and get details of the visit loc
 File handling concept have been used to maintain the database of various location as well as the user credentials. The review of every user is also saved as an overall user's experience.
 
 Team Members:
-Ujjwal Poudel
-Prabin Bohara
-Sajjan Acharya
-Anuj Rayamajhi
+ Ujjwal Poudel,
+ Prabin Bohara,
+ Sajjan Acharya,
+ Anuj Rayamajhi
